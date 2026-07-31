@@ -1,0 +1,6 @@
+.DS_Store
+crm/
+venv/
+__pycache__/
+.streamlit/
+*.log
