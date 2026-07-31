@@ -18,8 +18,8 @@ Maven Analytics *CRM Sales Opportunities* dataset.
 
 | | |
 | --- | --- |
-| ![Opportunities by quarter](docs/opportunities-by-quarter.png) | ![Deal-stage distribution](docs/deal-stage-distribution.png) |
-| ![Agent performance](docs/agent-performance.png) | ![Agent leaderboard](docs/agent-leaderboard.png) |
+| ![Opportunities by quarter](assets/opportunities-by-quarter.png) | ![Deal-stage distribution](assets/deal-stage-distribution.png) |
+| ![Agent performance](assets/agent-performance.png) | ![Agent leaderboard](assets/agent-leaderboard.png) |
 
 ## Tech stack
 
