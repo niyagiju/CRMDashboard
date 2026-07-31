@@ -4,7 +4,7 @@ An interactive **Streamlit** dashboard for exploring a CRM sales pipeline — op
 volume by quarter, won/lost distribution, and sales-agent performance — built on the
 Maven Analytics *CRM Sales Opportunities* dataset.
 
-![Dashboard overview](docs/overview.png)
+![Dashboard overview](assets/overview.png)
 
 ## Features
 
